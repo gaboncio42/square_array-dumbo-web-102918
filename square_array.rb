@@ -1,7 +1,7 @@
 def square_array(array)
   new_squares = array
   array.each do |n|
-    Math.sqrt(interger)
+    Math.sqrt(n)
   end
   return new_squares
 end
